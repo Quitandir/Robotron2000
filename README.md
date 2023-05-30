@@ -1,4 +1,5 @@
 # ROBOTRON 2000
+![robotron](https://github.com/Quitandir/Robotron2000/assets/109114941/22006b03-080b-40eb-ad7c-73ac481ec908)
 
 ## About the project
 
@@ -11,6 +12,10 @@ The idea is let the user choose the amount of components to be built in the robo
 For this projected, the initial HTML and CSS codes were given, so that JS was the language chosen to operate the manipulation of the document.
 
 Later a challenge was given to add a feature to change the color of the robot, so some changes in the HTML and CSS had to be made in order to adapt the project for the new feature.
+
+## Access
+
+You can access the project here: https://robotron2000-ecru.vercel.app/.
 
 ## Experience
 
